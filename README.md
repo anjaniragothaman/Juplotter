@@ -6,4 +6,6 @@ This code assumes that you have installed anaconda and have python version 3.6 (
 
 Link to download:
 MacOS: [anaconda](https://www.anaconda.com/download/?lang=en-us#macos)
+
+
 Windows: [anaconda](https://www.anaconda.com/download/#windows)
