@@ -8,6 +8,8 @@ Link to download anaconda:
 [MacOS](https://www.anaconda.com/download/?lang=en-us#macos) | [Windows](https://www.anaconda.com/download/#windows)
 
 __Input data: xlsx sheet__
+
+
 _Data arrangement requirements_:
 * Colum 1 - Observation ID
 * A column with header 'Dx' - typically has the diagnosis classification
